@@ -59,7 +59,7 @@ section .main .searchBox{
 section .main .searchBox .search{
   width: 100%;
   padding: 15px;
-  padding-left: 0px;
+  padding-left: 45px;
   padding-right: 45px;
   border-radius: 25px;
   border: 1px solid #ccc;
